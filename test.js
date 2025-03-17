@@ -1,1 +1,1 @@
-console.log("Javascript z GitHubu byl načten!");
+console.log("JavaScript z GitHubu byl načten!");
